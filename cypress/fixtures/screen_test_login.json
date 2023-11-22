@@ -1,10 +1,10 @@
 [
   {
-    "data_usuario": "prueba",
+    "data_usuario": "prueba1",
     "data_clave":"12345"
   },
   {
-    "data_usuario": "prueba",
+    "data_usuario": "prueba2",
     "data_clave":"12345"
   }
 ]
